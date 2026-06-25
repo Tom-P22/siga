@@ -1,73 +1,51 @@
-# React + TypeScript + Vite
+# SIGA - Prototipo funcional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SPA desarrollada con React, TypeScript, Vite y Tailwind CSS v4 para simular un
+Sistema Integrado de Gestión Aduanera en pasos fronterizos terrestres entre
+Chile y Argentina.
 
-Currently, two official plugins are available:
+## Ejecución
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Validaciones técnicas:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm run lint
+npm run build
 ```
+
+## Credenciales
+
+| Perfil | RUT | Contraseña |
+|---|---|---|
+| Funcionario de Aduanas | `12.345.678-5` | `aduana123` |
+| Administrador | `11.111.111-1` | `admin123` |
+
+## Funcionalidades
+
+- Login, cierre de sesión, roles y expiración por inactividad.
+- Persistencia simulada mediante `localStorage`.
+- Auditoría interna de accesos y operaciones.
+- Control vehicular con captura QR y cámara LPR simuladas.
+- Regla de permanencia de 180 días para particulares y 90 para diplomáticos.
+- Permiso de admisión temporal con impresión obligatoria en dos copias.
+- Declaración jurada SAG y derivación automática a inspección.
+- Tótem de autoatención y validación de autorización de menores.
+- Dashboard, estadísticas, exportación CSV e impresión/guardado PDF.
+- Vista navegable con las seis iteraciones desde el MVP hasta la versión 1.0.
+
+## Alcance
+
+Es un prototipo académico sin backend. Las integraciones con PDI, SAG, Registro
+Civil y Aduana Argentina se representan mediante respuestas y reglas simuladas.
+No se utilizan datos personales reales.
+
+## Evolución
+
+El detalle de las seis iteraciones se encuentra en
+[`docs/iteraciones.md`](docs/iteraciones.md). La planilla de pruebas y control
+de cambios, junto con la presentación, se genera en `output/`.
