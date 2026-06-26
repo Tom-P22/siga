@@ -53,3 +53,4 @@ export const loadData = (): AppData | null => {
     return null
   }
 }
+
