@@ -1,0 +1,365 @@
+{"kind":"deck","id":"pr/wr4cqk","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/2x4nap4r","slide":1,"title":"SIGA","textShapes":19}
+{"kind":"textbox","id":"sh/9knih4by","slide":1,"name":"Rectángulo 26","text":"SIGA","textPreview":"SIGA","textChars":4,"textLines":1,"bbox":[70,62,300,50]}
+{"kind":"textbox","id":"sh/cvixczed","slide":1,"name":"Rectángulo 1","text":"Prototipo funcional\ny mejora continua","textPreview":"Prototipo funcional | y mejora continua","textChars":37,"textLines":2,"bbox":[70,160,720,170]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":1,"name":"Rectángulo 2","text":"Evaluación Parcial N.º 3 · Ingeniería de Software","textPreview":"Evaluación Parcial N.º 3 · Ingeniería de Software","textChars":49,"textLines":1,"bbox":[72,356,660,38]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":1,"name":"Rectángulo 3","text":"Del MVP a una solución navegable en seis iteraciones","textPreview":"Del MVP a una solución navegable en seis iteraciones","textChars":52,"textLines":1,"bbox":[72,410,650,34]}
+{"kind":"shape","id":"sh/nyd0z610","slide":1,"name":"Rectángulo: esquinas redondeadas 4","bbox":[850,95,320,490]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":1,"name":"Rectángulo 5","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[875,140,270,120]}
+{"kind":"textbox","id":"sh/54zidony","slide":1,"name":"Rectángulo 6","text":"ITERACIONES","textPreview":"ITERACIONES","textChars":11,"textLines":1,"bbox":[875,265,270,36]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":1,"name":"Rectángulo 7","text":"18 casos de prueba\n10 requisitos funcionales\n10 requisitos no funcionales","textPreview":"18 casos de prueba | 10 requisitos funcionales | 10 requisitos no funcionales","textChars":73,"textLines":3,"bbox":[890,345,240,125]}
+{"kind":"textbox","id":"sh/judg7ads","slide":1,"name":"Rectángulo 8","text":"Equipo SIGA · 2026","textPreview":"Equipo SIGA · 2026","textChars":18,"textLines":1,"bbox":[72,648,400,24]}
+{"kind":"shape","id":"sh/nyd0z610","slide":1,"name":"Rectángulo 9","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/udg7adsj","slide":1,"name":"Rectángulo 10","bbox":[0,0,1280,96]}
+{"kind":"shape","id":"sh/54zidony","slide":1,"name":"Rectángulo 11","bbox":[0,96,1280,8]}
+{"kind":"shape","id":"sh/cj6tovah","slide":1,"name":"Rectángulo: esquinas redondeadas 12","bbox":[820,145,330,410]}
+{"kind":"shape","id":"sh/nap4r65w","slide":1,"name":"Rectángulo: esquinas redondeadas 13","bbox":[870,198,230,142]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":1,"name":"Rectángulo: esquinas redondeadas 14","bbox":[875,360,220,108]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":1,"name":"cover-eyebrow","text":"RQY1102 · Evaluación Parcial 3","textPreview":"RQY1102 · Evaluación Parcial 3","textChars":30,"textLines":1,"bbox":[78,35,580,36]}
+{"kind":"textbox","id":"sh/cvixczed","slide":1,"name":"cover-title","text":"SIGA","textPreview":"SIGA","textChars":4,"textLines":1,"bbox":[78,170,500,86]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":1,"name":"cover-subtitle","text":"Sistema Integrado de Gestión Aduanera","textPreview":"Sistema Integrado de Gestión Aduanera","textChars":37,"textLines":1,"bbox":[82,258,670,45]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":1,"name":"cover-description","text":"Prototipo funcional para apoyar el control fronterizo entre Chile y Argentina, integrando Aduanas, SAG, autoatención, reportes y auditoría.","textPreview":"Prototipo funcional para apoyar el control fronterizo entre Chile y Argentina, integrando Aduanas, SAG, autoatención, reportes y auditoría.","textChars":139,"textLines":1,"bbox":[82,328,650,110]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":1,"name":"cover-students-label","text":"Integrantes","textPreview":"Integrantes","textChars":11,"textLines":1,"bbox":[82,485,190,32]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":1,"name":"cover-students","text":"Fernando Villalobos\nMarcelo Salas","textPreview":"Fernando Villalobos | Marcelo Salas","textChars":33,"textLines":2,"bbox":[82,520,360,78]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":1,"name":"cover-course","text":"Asignatura: Ingeniería de Software\nProfesor(a): Luis David Becerra Uribe","textPreview":"Asignatura: Ingeniería de Software | Profesor(a): Luis David Becerra Uribe","textChars":72,"textLines":2,"bbox":[500,520,350,78]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":1,"name":"cover-card-title","text":"MVP → Prototipo funcional","textPreview":"MVP → Prototipo funcional","textChars":25,"textLines":1,"bbox":[870,226,230,36]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":1,"name":"cover-card-body-1","text":"6 iteraciones","textPreview":"6 iteraciones","textChars":13,"textLines":1,"bbox":[885,374,200,24]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":1,"name":"cover-card-body-2","text":"Pruebas ISO","textPreview":"Pruebas ISO","textChars":11,"textLines":1,"bbox":[885,405,200,24]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":1,"name":"cover-card-body-3","text":"Control de cambios","textPreview":"Control de cambios","textChars":18,"textLines":1,"bbox":[885,436,200,24]}
+{"kind":"notes","id":"nt/2x4nap4r","slide":1,"text":""}
+{"kind":"slide","id":"sl/pg3ex0nu","slide":2,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":16}
+{"kind":"shape","id":"sh/ed8bat47","slide":2,"name":"Rectángulo 26","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":2,"name":"rubric-header","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,54,520,38]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":2,"name":"rubric-title","text":"Cumplimiento de la rúbrica","textPreview":"Cumplimiento de la rúbrica","textChars":26,"textLines":1,"bbox":[64,102,650,58]}
+{"kind":"shape","id":"sh/r65wjudg","slide":2,"name":"Rectángulo 3","bbox":[64,170,96,4]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":2,"name":"Rectángulo: esquinas redondeadas 4","bbox":[70,205,520,98]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":2,"name":"rubric-item-1","text":"✓ Contexto y problema","textPreview":"✓ Contexto y problema","textChars":21,"textLines":1,"bbox":[92,223,460,28]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":2,"name":"rubric-body-1","text":"Caso base de control fronterizo Chile–Argentina, con foco en integración institucional y trazabilidad.","textPreview":"Caso base de control fronterizo Chile–Argentina, con foco en integración institucional y trazabilidad.","textChars":102,"textLines":1,"bbox":[92,255,460,38]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":2,"name":"Rectángulo: esquinas redondeadas 7","bbox":[645,205,520,98]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":2,"name":"rubric-item-2","text":"✓ MVP inicial","textPreview":"✓ MVP inicial","textChars":13,"textLines":1,"bbox":[667,223,460,28]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":2,"name":"rubric-body-2","text":"Flujo mínimo validado: login, dashboard, registro aduanero, QR/LPR simulado y auditoría.","textPreview":"Flujo mínimo validado: login, dashboard, registro aduanero, QR/LPR simulado y auditoría.","textChars":88,"textLines":1,"bbox":[667,255,460,38]}
+{"kind":"shape","id":"sh/lwval87e","slide":2,"name":"Rectángulo: esquinas redondeadas 10","bbox":[70,337,520,98]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":2,"name":"rubric-item-3","text":"✓ Iteraciones","textPreview":"✓ Iteraciones","textChars":13,"textLines":1,"bbox":[92,355,460,28]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":2,"name":"rubric-body-3","text":"Evolución documentada en 6 etapas: interfaz, Aduana, SAG, autoatención, reportes y seguridad.","textPreview":"Evolución documentada en 6 etapas: interfaz, Aduana, SAG, autoatención, reportes y seguridad.","textChars":93,"textLines":1,"bbox":[92,387,460,38]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":2,"name":"Rectángulo: esquinas redondeadas 13","bbox":[645,337,520,98]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":2,"name":"rubric-item-4","text":"✓ Prototipo funcional","textPreview":"✓ Prototipo funcional","textChars":21,"textLines":1,"bbox":[667,355,460,28]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":2,"name":"rubric-body-4","text":"Módulos navegables con datos mock/localStorage, reglas de negocio y comprobantes imprimibles.","textPreview":"Módulos navegables con datos mock/localStorage, reglas de negocio y comprobantes imprimibles.","textChars":93,"textLines":1,"bbox":[667,387,460,38]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":2,"name":"Rectángulo: esquinas redondeadas 16","bbox":[70,469,520,98]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":2,"name":"rubric-item-5","text":"✓ Pruebas y calidad","textPreview":"✓ Pruebas y calidad","textChars":19,"textLines":1,"bbox":[92,487,460,28]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":2,"name":"rubric-body-5","text":"Plan basado en ISO 25000 / ISO 9126, con casos funcionales, usabilidad, seguridad y compatibilidad.","textPreview":"Plan basado en ISO 25000 / ISO 9126, con casos funcionales, usabilidad, seguridad y compatibilidad.","textChars":99,"textLines":1,"bbox":[92,519,460,38]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":2,"name":"Rectángulo: esquinas redondeadas 19","bbox":[645,469,520,98]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":2,"name":"rubric-item-6","text":"✓ Control de cambios","textPreview":"✓ Control de cambios","textChars":20,"textLines":1,"bbox":[667,487,460,28]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":2,"name":"rubric-body-6","text":"Registro de mejoras por versión y trazabilidad entre requisitos, pruebas y funcionalidades.","textPreview":"Registro de mejoras por versión y trazabilidad entre requisitos, pruebas y funcionalidades.","textChars":91,"textLines":1,"bbox":[667,519,460,38]}
+{"kind":"shape","id":"sh/eloj2t83","slide":2,"name":"Rectángulo: esquinas redondeadas 22","bbox":[805,72,140,46]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":2,"name":"pill-Entrega 3","text":"Entrega 3","textPreview":"Entrega 3","textChars":9,"textLines":1,"bbox":[825,83,100,26]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":2,"name":"Rectángulo: esquinas redondeadas 24","bbox":[965,72,160,46]}
+{"kind":"textbox","id":"sh/7u54zido","slide":2,"name":"pill-Demo lista","text":"Demo lista","textPreview":"Demo lista","textChars":10,"textLines":1,"bbox":[985,83,120,26]}
+{"kind":"notes","id":"nt/pg3ex0nu","slide":2,"text":""}
+{"kind":"slide","id":"sl/s72x4nap","slide":3,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":13}
+{"kind":"textbox","id":"sh/7adsji5s","slide":3,"name":"Rectángulo 20","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":3,"name":"Rectángulo 1","text":"Problema y objetivo de la solución","textPreview":"Problema y objetivo de la solución","textChars":34,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/dsji5sne","slide":3,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"name":"Rectángulo 3","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/vy90je9c","slide":3,"name":"Rectángulo: esquinas redondeadas 4","bbox":[64,178,520,430]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":3,"name":"Rectángulo 5","text":"Situación inicial","textPreview":"Situación inicial","textChars":17,"textLines":1,"bbox":[94,205,360,34]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":3,"name":"Rectángulo: esquinas redondeadas 6","bbox":[94,273,10,10]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":3,"name":"Rectángulo 7","text":"Procesos manuales y duplicación de datos.","textPreview":"Procesos manuales y duplicación de datos.","textChars":41,"textLines":1,"bbox":[116,265,408,48]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":3,"name":"Rectángulo: esquinas redondeadas 8","bbox":[94,338,10,10]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":3,"name":"Rectángulo 9","text":"Largos tiempos de espera en pasos terrestres.","textPreview":"Largos tiempos de espera en pasos terrestres.","textChars":45,"textLines":1,"bbox":[116,330,408,48]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":3,"name":"Rectángulo: esquinas redondeadas 10","bbox":[94,403,10,10]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":3,"name":"Rectángulo 11","text":"Sistemas separados entre Aduanas, PDI y SAG.","textPreview":"Sistemas separados entre Aduanas, PDI y SAG.","textChars":44,"textLines":1,"bbox":[116,395,408,48]}
+{"kind":"shape","id":"sh/oj2t83it","slide":3,"name":"Rectángulo: esquinas redondeadas 12","bbox":[94,468,10,10]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":3,"name":"Rectángulo 13","text":"Baja trazabilidad de decisiones y rechazos.","textPreview":"Baja trazabilidad de decisiones y rechazos.","textChars":43,"textLines":1,"bbox":[116,460,408,48]}
+{"kind":"shape","id":"sh/61032lsz","slide":3,"name":"Rectángulo: esquinas redondeadas 14","bbox":[626,178,590,430]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":3,"name":"Rectángulo 15","text":"Objetivo SIGA","textPreview":"Objetivo SIGA","textChars":13,"textLines":1,"bbox":[660,205,470,34]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":3,"name":"Rectángulo 16","text":"Unificar y automatizar el control fronterizo mediante una experiencia clara, trazable y preparada para integrar organismos externos.","textPreview":"Unificar y automatizar el control fronterizo mediante una experiencia clara, trazable y preparada para integrar organismos externos.","textChars":132,"textLines":1,"bbox":[660,260,500,104]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":3,"name":"Rectángulo 17","text":"Resultado esperado","textPreview":"Resultado esperado","textChars":18,"textLines":1,"bbox":[660,405,230,30]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":3,"name":"Rectángulo 18","text":"Menos espera · menos errores · mejor fiscalización","textPreview":"Menos espera · menos errores · mejor fiscalización","textChars":50,"textLines":1,"bbox":[660,450,500,58]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":3,"name":"Rectángulo 19","text":"El prototipo simula las integraciones sin utilizar datos reales ni backend.","textPreview":"El prototipo simula las integraciones sin utilizar datos reales ni backend.","textChars":75,"textLines":1,"bbox":[660,545,500,38]}
+{"kind":"notes","id":"nt/s72x4nap","slide":3,"text":""}
+{"kind":"slide","id":"sl/val87ed8","slide":4,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":20}
+{"kind":"textbox","id":"sh/7adsji5s","slide":4,"name":"Rectángulo 33","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":4,"name":"Rectángulo 1","text":"Alcance funcional y actores","textPreview":"Alcance funcional y actores","textChars":27,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/je9cvixc","slide":4,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":4,"name":"Rectángulo 3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/xs72x4na","slide":4,"name":"Rectángulo: esquinas redondeadas 4","bbox":[64,190,258,126]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":4,"name":"Rectángulo 5","text":"Aduanas","textPreview":"Aduanas","textChars":7,"textLines":1,"bbox":[84,212,218,30]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":4,"name":"Rectángulo 6","text":"Vehículos, permisos y plazos","textPreview":"Vehículos, permisos y plazos","textChars":28,"textLines":1,"bbox":[84,255,218,48]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":4,"name":"Rectángulo: esquinas redondeadas 7","bbox":[352,190,258,126]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":4,"name":"Rectángulo 8","text":"PDI","textPreview":"PDI","textChars":3,"textLines":1,"bbox":[372,212,218,30]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":4,"name":"Rectángulo 9","text":"Identidad y autorización de menores","textPreview":"Identidad y autorización de menores","textChars":35,"textLines":1,"bbox":[372,255,218,48]}
+{"kind":"shape","id":"sh/8bat47y1","slide":4,"name":"Rectángulo: esquinas redondeadas 10","bbox":[640,190,258,126]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":4,"name":"Rectángulo 11","text":"SAG","textPreview":"SAG","textChars":3,"textLines":1,"bbox":[660,212,218,30]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":4,"name":"Rectángulo 12","text":"Declaraciones e inspecciones","textPreview":"Declaraciones e inspecciones","textChars":28,"textLines":1,"bbox":[660,255,218,48]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":4,"name":"Rectángulo: esquinas redondeadas 13","bbox":[928,190,258,126]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":4,"name":"Rectángulo 14","text":"Administrador","textPreview":"Administrador","textChars":13,"textLines":1,"bbox":[948,212,218,30]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"name":"Rectángulo 15","text":"Auditoría, usuarios y reportes","textPreview":"Auditoría, usuarios y reportes","textChars":30,"textLines":1,"bbox":[948,255,218,48]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":4,"name":"Rectángulo 16","text":"Procesos cubiertos","textPreview":"Procesos cubiertos","textChars":18,"textLines":1,"bbox":[64,365,300,34]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":4,"name":"Rectángulo: esquinas redondeadas 17","bbox":[64,425,258,56]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":4,"name":"Rectángulo 18","text":"Login y roles","textPreview":"Login y roles","textChars":13,"textLines":1,"bbox":[79,440,228,28]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":4,"name":"Rectángulo: esquinas redondeadas 19","bbox":[352,425,258,56]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":4,"name":"Rectángulo 20","text":"QR y LPR","textPreview":"QR y LPR","textChars":8,"textLines":1,"bbox":[367,440,228,28]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":4,"name":"Rectángulo: esquinas redondeadas 21","bbox":[640,425,258,56]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":4,"name":"Rectángulo 22","text":"Reglas 180/90","textPreview":"Reglas 180/90","textChars":13,"textLines":1,"bbox":[655,440,228,28]}
+{"kind":"shape","id":"sh/orytsvu9","slide":4,"name":"Rectángulo: esquinas redondeadas 23","bbox":[928,425,258,56]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":4,"name":"Rectángulo 24","text":"Impresión dual","textPreview":"Impresión dual","textChars":14,"textLines":1,"bbox":[943,440,228,28]}
+{"kind":"shape","id":"sh/al87ed8b","slide":4,"name":"Rectángulo: esquinas redondeadas 25","bbox":[64,503,258,56]}
+{"kind":"textbox","id":"sh/z61032ls","slide":4,"name":"Rectángulo 26","text":"Declaración SAG","textPreview":"Declaración SAG","textChars":15,"textLines":1,"bbox":[79,518,228,28]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":4,"name":"Rectángulo: esquinas redondeadas 27","bbox":[352,503,258,56]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":4,"name":"Rectángulo 28","text":"Tótem de pasajeros","textPreview":"Tótem de pasajeros","textChars":18,"textLines":1,"bbox":[367,518,228,28]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":4,"name":"Rectángulo: esquinas redondeadas 29","bbox":[640,503,258,56]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":4,"name":"Rectángulo 30","text":"Auditoría","textPreview":"Auditoría","textChars":9,"textLines":1,"bbox":[655,518,228,28]}
+{"kind":"shape","id":"sh/psfil0rq","slide":4,"name":"Rectángulo: esquinas redondeadas 31","bbox":[928,503,258,56]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":4,"name":"Rectángulo 32","text":"CSV y PDF","textPreview":"CSV y PDF","textChars":9,"textLines":1,"bbox":[943,518,228,28]}
+{"kind":"notes","id":"nt/val87ed8","slide":4,"text":""}
+{"kind":"slide","id":"sl/mlkjm1cf","slide":5,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":28}
+{"kind":"textbox","id":"sh/7adsji5s","slide":5,"name":"Rectángulo 42","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":5,"name":"Rectángulo 1","text":"Seis iteraciones desde el MVP","textPreview":"Seis iteraciones desde el MVP","textChars":29,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/dg7adsji","slide":5,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":5,"name":"Rectángulo 3","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":5,"name":"Rectángulo 4","bbox":[105,327,1040,6]}
+{"kind":"shape","id":"sh/onyd0z61","slide":5,"name":"Rectángulo: esquinas redondeadas 5","bbox":[74,208,165,92]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":5,"name":"Rectángulo 6","text":"v0.1","textPreview":"v0.1","textChars":4,"textLines":1,"bbox":[90,222,133,24]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":5,"name":"Rectángulo 7","text":"Acceso","textPreview":"Acceso","textChars":6,"textLines":1,"bbox":[86,252,141,28]}
+{"kind":"shape","id":"sh/vy90je9c","slide":5,"name":"Rectángulo: esquinas redondeadas 8","bbox":[130,308,52,52]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":5,"name":"Rectángulo 9","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[130,319,52,28]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":5,"name":"Rectángulo 10","text":"Login y panel","textPreview":"Login y panel","textChars":13,"textLines":1,"bbox":[70,388,173,55]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":5,"name":"Rectángulo: esquinas redondeadas 11","bbox":[268,208,165,92]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":5,"name":"Rectángulo 12","text":"v0.2","textPreview":"v0.2","textChars":4,"textLines":1,"bbox":[284,222,133,24]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":5,"name":"Rectángulo 13","text":"Diseño","textPreview":"Diseño","textChars":6,"textLines":1,"bbox":[280,252,141,28]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":5,"name":"Rectángulo: esquinas redondeadas 14","bbox":[324,308,52,52]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":5,"name":"Rectángulo 15","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[324,319,52,28]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":5,"name":"Rectángulo 16","text":"Tailwind y roles","textPreview":"Tailwind y roles","textChars":16,"textLines":1,"bbox":[264,388,173,55]}
+{"kind":"shape","id":"sh/neloj2t8","slide":5,"name":"Rectángulo: esquinas redondeadas 17","bbox":[462,208,165,92]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":5,"name":"Rectángulo 18","text":"v0.3","textPreview":"v0.3","textChars":4,"textLines":1,"bbox":[478,222,133,24]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":5,"name":"Rectángulo 19","text":"Aduana","textPreview":"Aduana","textChars":6,"textLines":1,"bbox":[474,252,141,28]}
+{"kind":"shape","id":"sh/vixczed8","slide":5,"name":"Rectángulo: esquinas redondeadas 20","bbox":[518,308,52,52]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":5,"name":"Rectángulo 21","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[518,319,52,28]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":5,"name":"Rectángulo 22","text":"QR, LPR, 180/90","textPreview":"QR, LPR, 180/90","textChars":15,"textLines":1,"bbox":[458,388,173,55]}
+{"kind":"shape","id":"sh/6psfil0r","slide":5,"name":"Rectángulo: esquinas redondeadas 23","bbox":[656,208,165,92]}
+{"kind":"textbox","id":"sh/val87ed8","slide":5,"name":"Rectángulo 24","text":"v0.4","textPreview":"v0.4","textChars":4,"textLines":1,"bbox":[672,222,133,24]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":5,"name":"Rectángulo 25","text":"SAG","textPreview":"SAG","textChars":3,"textLines":1,"bbox":[668,252,141,28]}
+{"kind":"shape","id":"sh/dcbulwva","slide":5,"name":"Rectángulo: esquinas redondeadas 26","bbox":[712,308,52,52]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":5,"name":"Rectángulo 27","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[712,319,52,28]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":5,"name":"Rectángulo 28","text":"DJ y autoatención","textPreview":"DJ y autoatención","textChars":17,"textLines":1,"bbox":[652,388,173,55]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":5,"name":"Rectángulo: esquinas redondeadas 29","bbox":[850,208,165,92]}
+{"kind":"textbox","id":"sh/sji5snel","slide":5,"name":"Rectángulo 30","text":"v0.5","textPreview":"v0.5","textChars":4,"textLines":1,"bbox":[866,222,133,24]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":5,"name":"Rectángulo 31","text":"Control","textPreview":"Control","textChars":7,"textLines":1,"bbox":[862,252,141,28]}
+{"kind":"shape","id":"sh/adsji5sn","slide":5,"name":"Rectángulo: esquinas redondeadas 32","bbox":[906,308,52,52]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":5,"name":"Rectángulo 33","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[906,319,52,28]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":5,"name":"Rectángulo 34","text":"Auditoría y CSV","textPreview":"Auditoría y CSV","textChars":15,"textLines":1,"bbox":[846,388,173,55]}
+{"kind":"shape","id":"sh/3m94fu18","slide":5,"name":"Rectángulo: esquinas redondeadas 35","bbox":[1044,208,165,92]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":5,"name":"Rectángulo 36","text":"v1.0","textPreview":"v1.0","textChars":4,"textLines":1,"bbox":[1060,222,133,24]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":5,"name":"Rectángulo 37","text":"Calidad","textPreview":"Calidad","textChars":7,"textLines":1,"bbox":[1056,252,141,28]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":5,"name":"Rectángulo: esquinas redondeadas 38","bbox":[1100,308,52,52]}
+{"kind":"textbox","id":"sh/wval87ed","slide":5,"name":"Rectángulo 39","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1100,319,52,28]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":5,"name":"Rectángulo 40","text":"Pruebas y cierre","textPreview":"Pruebas y cierre","textChars":16,"textLines":1,"bbox":[1040,388,173,55]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":5,"name":"Rectángulo 41","text":"Cada etapa agrega valor verificable y deja evidencia en el control de cambios.","textPreview":"Cada etapa agrega valor verificable y deja evidencia en el control de cambios.","textChars":78,"textLines":1,"bbox":[175,530,930,42]}
+{"kind":"notes","id":"nt/mlkjm1cf","slide":5,"text":""}
+{"kind":"slide","id":"sl/58z25kb6","slide":6,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":9}
+{"kind":"textbox","id":"sh/yxobm58z","slide":6,"name":"Rectángulo 5","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":6,"name":"Rectángulo 1","text":"Resultado: panel operativo integrado","textPreview":"Resultado: panel operativo integrado","textChars":36,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/r65wjudg","slide":6,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":6,"name":"Rectángulo 3","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":6,"name":"Rectángulo: esquinas redondeadas 4","bbox":[57,167,784,464]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":6,"name":"Rectángulo 6","text":"Visión unificada","textPreview":"Visión unificada","textChars":16,"textLines":1,"bbox":[890,190,300,34]}
+{"kind":"shape","id":"sh/g7adsji5","slide":6,"name":"Rectángulo: esquinas redondeadas 7","bbox":[890,258,10,10]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":6,"name":"Rectángulo 8","text":"Indicadores por módulo.","textPreview":"Indicadores por módulo.","textChars":23,"textLines":1,"bbox":[912,250,268,48]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":6,"name":"Rectángulo: esquinas redondeadas 9","bbox":[890,323,10,10]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":6,"name":"Rectángulo 10","text":"Actividad reciente y estados.","textPreview":"Actividad reciente y estados.","textChars":29,"textLines":1,"bbox":[912,315,268,48]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":6,"name":"Rectángulo: esquinas redondeadas 11","bbox":[890,388,10,10]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":6,"name":"Rectángulo 12","text":"Navegación según el rol.","textPreview":"Navegación según el rol.","textChars":24,"textLines":1,"bbox":[912,380,268,48]}
+{"kind":"shape","id":"sh/dg7adsji","slide":6,"name":"Rectángulo: esquinas redondeadas 13","bbox":[890,453,10,10]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":6,"name":"Rectángulo 14","text":"Persistencia entre sesiones.","textPreview":"Persistencia entre sesiones.","textChars":28,"textLines":1,"bbox":[912,445,268,48]}
+{"kind":"shape","id":"sh/vahoza1g","slide":6,"name":"Rectángulo: esquinas redondeadas 15","bbox":[890,535,290,72]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":6,"name":"Rectángulo 16","text":"Información accionable\nen una sola pantalla","textPreview":"Información accionable | en una sola pantalla","textChars":43,"textLines":2,"bbox":[910,548,250,48]}
+{"kind":"image","id":"im/mlkjm1cf","slide":6,"name":"Imagen 23","geometry":"roundRect","bbox":[64,174,770,450]}
+{"kind":"notes","id":"nt/58z25kb6","slide":6,"text":""}
+{"kind":"slide","id":"sl/0z61032l","slide":7,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":10}
+{"kind":"textbox","id":"sh/xczed8v6","slide":7,"name":"Rectángulo 5","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":7,"name":"Rectángulo 1","text":"Control vehicular: reglas y evidencia","textPreview":"Control vehicular: reglas y evidencia","textChars":37,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":7,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":7,"name":"Rectángulo 3","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":7,"name":"Rectángulo: esquinas redondeadas 4","bbox":[57,167,774,464]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":7,"name":"Rectángulo 6","text":"Automatización crítica","textPreview":"Automatización crítica","textChars":22,"textLines":1,"bbox":[875,188,320,34]}
+{"kind":"shape","id":"sh/je9cvixc","slide":7,"name":"Rectángulo: esquinas redondeadas 7","bbox":[875,253,10,10]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":7,"name":"Rectángulo 8","text":"Lectura QR simulada.","textPreview":"Lectura QR simulada.","textChars":20,"textLines":1,"bbox":[897,245,283,48]}
+{"kind":"shape","id":"sh/svu9knih","slide":7,"name":"Rectángulo: esquinas redondeadas 9","bbox":[875,311,10,10]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":7,"name":"Rectángulo 10","text":"Patente mediante LPR.","textPreview":"Patente mediante LPR.","textChars":21,"textLines":1,"bbox":[897,303,283,48]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":7,"name":"Rectángulo: esquinas redondeadas 11","bbox":[875,369,10,10]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":7,"name":"Rectángulo 12","text":"180 días: particulares.","textPreview":"180 días: particulares.","textChars":23,"textLines":1,"bbox":[897,361,283,48]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":7,"name":"Rectángulo: esquinas redondeadas 13","bbox":[875,427,10,10]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":7,"name":"Rectángulo 14","text":"90 días: diplomáticos.","textPreview":"90 días: diplomáticos.","textChars":22,"textLines":1,"bbox":[897,419,283,48]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":7,"name":"Rectángulo: esquinas redondeadas 15","bbox":[875,485,10,10]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":7,"name":"Rectángulo 16","text":"Dos copias físicas obligatorias.","textPreview":"Dos copias físicas obligatorias.","textChars":32,"textLines":1,"bbox":[897,477,283,48]}
+{"kind":"shape","id":"sh/s72x4nap","slide":7,"name":"Rectángulo: esquinas redondeadas 17","bbox":[875,553,310,56]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":7,"name":"Rectángulo 18","text":"Cálculo automático del vencimiento","textPreview":"Cálculo automático del vencimiento","textChars":34,"textLines":1,"bbox":[890,568,280,28]}
+{"kind":"image","id":"im/udg7adsj","slide":7,"name":"Imagen 25","geometry":"roundRect","bbox":[64,174,760,450]}
+{"kind":"notes","id":"nt/0z61032l","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu18jqh0","slide":8,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":9}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":8,"name":"Rectángulo 5","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":8,"name":"Rectángulo 1","text":"Control SAG y autoatención","textPreview":"Control SAG y autoatención","textChars":26,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/judg7ads","slide":8,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":8,"name":"Rectángulo 3","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/1orytsvu","slide":8,"name":"Rectángulo: esquinas redondeadas 4","bbox":[57,167,734,464]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":8,"name":"Rectángulo: esquinas redondeadas 6","bbox":[830,174,386,196]}
+{"kind":"textbox","id":"sh/cvixczed","slide":8,"name":"Rectángulo 7","text":"Declaración SAG","textPreview":"Declaración SAG","textChars":15,"textLines":1,"bbox":[858,198,330,32]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":8,"name":"Rectángulo 8","text":"Una declaración positiva marca el caso como observado y lo deriva a inspección física.","textPreview":"Una declaración positiva marca el caso como observado y lo deriva a inspección física.","textChars":86,"textLines":1,"bbox":[858,250,320,86]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":8,"name":"Rectángulo: esquinas redondeadas 9","bbox":[830,394,386,230]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":8,"name":"Rectángulo 10","text":"Tótem de pasajeros","textPreview":"Tótem de pasajeros","textChars":18,"textLines":1,"bbox":[858,420,330,32]}
+{"kind":"shape","id":"sh/j2t83itg","slide":8,"name":"Rectángulo: esquinas redondeadas 11","bbox":[858,478,10,10]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":8,"name":"Rectángulo 12","text":"Registro previo a ventanilla.","textPreview":"Registro previo a ventanilla.","textChars":29,"textLines":1,"bbox":[880,470,298,48]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":8,"name":"Rectángulo: esquinas redondeadas 13","bbox":[858,530,10,10]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":8,"name":"Rectángulo 14","text":"Código de atención.","textPreview":"Código de atención.","textChars":19,"textLines":1,"bbox":[880,522,298,48]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":8,"name":"Rectángulo: esquinas redondeadas 15","bbox":[858,582,10,10]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":8,"name":"Rectángulo 16","text":"Menores: autorización obligatoria.","textPreview":"Menores: autorización obligatoria.","textChars":34,"textLines":1,"bbox":[880,574,298,48]}
+{"kind":"image","id":"im/mlkjm1cf","slide":8,"name":"Imagen 23","geometry":"roundRect","bbox":[64,174,720,450]}
+{"kind":"notes","id":"nt/fu18jqh0","slide":8,"text":""}
+{"kind":"slide","id":"sl/qh0fepkz","slide":9,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":9}
+{"kind":"textbox","id":"sh/onyd0z61","slide":9,"name":"Rectángulo 5","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":9,"name":"Rectángulo 1","text":"Trazabilidad, indicadores y exportación","textPreview":"Trazabilidad, indicadores y exportación","textChars":39,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/dg7adsji","slide":9,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":9,"name":"Rectángulo 3","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":9,"name":"Rectángulo: esquinas redondeadas 4","bbox":[57,167,764,464]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":9,"name":"Rectángulo 6","text":"Control de la operación","textPreview":"Control de la operación","textChars":23,"textLines":1,"bbox":[862,188,330,34]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":9,"name":"Rectángulo: esquinas redondeadas 7","bbox":[862,258,10,10]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":9,"name":"Rectángulo 8","text":"Auditoría: usuario, fecha y acción.","textPreview":"Auditoría: usuario, fecha y acción.","textChars":35,"textLines":1,"bbox":[884,250,298,48]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":9,"name":"Rectángulo: esquinas redondeadas 9","bbox":[862,323,10,10]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":9,"name":"Rectángulo 10","text":"Indicadores de aprobación.","textPreview":"Indicadores de aprobación.","textChars":26,"textLines":1,"bbox":[884,315,298,48]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":9,"name":"Rectángulo: esquinas redondeadas 11","bbox":[862,388,10,10]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":9,"name":"Rectángulo 12","text":"Exportación CSV.","textPreview":"Exportación CSV.","textChars":16,"textLines":1,"bbox":[884,380,298,48]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":9,"name":"Rectángulo: esquinas redondeadas 13","bbox":[862,453,10,10]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":9,"name":"Rectángulo 14","text":"Impresión / guardado PDF.","textPreview":"Impresión / guardado PDF.","textChars":25,"textLines":1,"bbox":[884,445,298,48]}
+{"kind":"shape","id":"sh/58z25kb6","slide":9,"name":"Rectángulo: esquinas redondeadas 15","bbox":[862,518,10,10]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":9,"name":"Rectángulo 16","text":"Acceso exclusivo del administrador.","textPreview":"Acceso exclusivo del administrador.","textChars":35,"textLines":1,"bbox":[884,510,298,48]}
+{"kind":"image","id":"im/w7mp0bi9","slide":9,"name":"Imagen 23","geometry":"roundRect","bbox":[64,174,750,450]}
+{"kind":"notes","id":"nt/qh0fepkz","slide":9,"text":""}
+{"kind":"slide","id":"sl/29gr2p8n","slide":10,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":17}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":10,"name":"Rectángulo 24","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":10,"name":"Rectángulo 1","text":"Modelo de calidad aplicado","textPreview":"Modelo de calidad aplicado","textChars":26,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/gvy90je9","slide":10,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":10,"name":"Rectángulo 3","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":10,"name":"Rectángulo 4","text":"ISO 9126 / familia ISO 25000","textPreview":"ISO 9126 / familia ISO 25000","textChars":28,"textLines":1,"bbox":[64,170,520,34]}
+{"kind":"shape","id":"sh/94fu18jq","slide":10,"name":"Rectángulo: esquinas redondeadas 5","bbox":[64,230,550,96]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":10,"name":"Rectángulo 6","text":"Funcionalidad","textPreview":"Funcionalidad","textChars":13,"textLines":1,"bbox":[88,248,190,26]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":10,"name":"Rectángulo 7","text":"Flujos críticos y reglas del negocio","textPreview":"Flujos críticos y reglas del negocio","textChars":36,"textLines":1,"bbox":[284,247,300,58]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":10,"name":"Rectángulo: esquinas redondeadas 8","bbox":[644,230,550,96]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":10,"name":"Rectángulo 9","text":"Usabilidad","textPreview":"Usabilidad","textChars":10,"textLines":1,"bbox":[668,248,190,26]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":10,"name":"Rectángulo 10","text":"Responsive, mensajes y ayuda","textPreview":"Responsive, mensajes y ayuda","textChars":28,"textLines":1,"bbox":[864,247,300,58]}
+{"kind":"shape","id":"sh/m94fu18j","slide":10,"name":"Rectángulo: esquinas redondeadas 11","bbox":[64,352,550,96]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":10,"name":"Rectángulo 12","text":"Fiabilidad","textPreview":"Fiabilidad","textChars":10,"textLines":1,"bbox":[88,370,190,26]}
+{"kind":"textbox","id":"sh/83itgfml","slide":10,"name":"Rectángulo 13","text":"Persistencia y validaciones","textPreview":"Persistencia y validaciones","textChars":27,"textLines":1,"bbox":[284,369,300,58]}
+{"kind":"shape","id":"sh/xobm58z2","slide":10,"name":"Rectángulo: esquinas redondeadas 14","bbox":[644,352,550,96]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":10,"name":"Rectángulo 15","text":"Eficiencia","textPreview":"Eficiencia","textChars":10,"textLines":1,"bbox":[668,370,190,26]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":10,"name":"Rectángulo 16","text":"Respuesta inmediata y build optimizado","textPreview":"Respuesta inmediata y build optimizado","textChars":38,"textLines":1,"bbox":[864,369,300,58]}
+{"kind":"shape","id":"sh/4zidonyd","slide":10,"name":"Rectángulo: esquinas redondeadas 17","bbox":[64,474,550,96]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":10,"name":"Rectángulo 18","text":"Mantenibilidad","textPreview":"Mantenibilidad","textChars":14,"textLines":1,"bbox":[88,492,190,26]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":10,"name":"Rectángulo 19","text":"React, componentes y TypeScript","textPreview":"React, componentes y TypeScript","textChars":31,"textLines":1,"bbox":[284,491,300,58]}
+{"kind":"shape","id":"sh/8v6psfil","slide":10,"name":"Rectángulo: esquinas redondeadas 20","bbox":[644,474,550,96]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":10,"name":"Rectángulo 21","text":"Portabilidad","textPreview":"Portabilidad","textChars":12,"textLines":1,"bbox":[668,492,190,26]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":10,"name":"Rectángulo 22","text":"Aplicación web multiplataforma","textPreview":"Aplicación web multiplataforma","textChars":30,"textLines":1,"bbox":[864,491,300,58]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":10,"name":"Rectángulo 23","text":"Calidad observable: cada atributo se vincula a una función o evidencia ejecutable.","textPreview":"Calidad observable: cada atributo se vincula a una función o evidencia ejecutable.","textChars":82,"textLines":1,"bbox":[130,625,1020,30]}
+{"kind":"notes","id":"nt/29gr2p8n","slide":10,"text":""}
+{"kind":"slide","id":"sl/re1w7mp0","slide":11,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":17}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":11,"name":"Rectángulo 26","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":11,"name":"Rectángulo 1","text":"Plan de pruebas y resultados","textPreview":"Plan de pruebas y resultados","textChars":28,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/vahoza1g","slide":11,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":11,"name":"Rectángulo 3","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":11,"name":"Rectángulo: esquinas redondeadas 4","bbox":[64,180,258,160]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":11,"name":"Rectángulo 5","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[84,205,218,68]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":11,"name":"Rectángulo 6","text":"casos planificados","textPreview":"casos planificados","textChars":18,"textLines":1,"bbox":[84,282,218,34]}
+{"kind":"shape","id":"sh/oj2t83it","slide":11,"name":"Rectángulo: esquinas redondeadas 7","bbox":[352,180,258,160]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":11,"name":"Rectángulo 8","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[372,205,218,68]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":11,"name":"Rectángulo 9","text":"casos ejecutados","textPreview":"casos ejecutados","textChars":16,"textLines":1,"bbox":[372,282,218,34]}
+{"kind":"shape","id":"sh/sji5snel","slide":11,"name":"Rectángulo: esquinas redondeadas 10","bbox":[640,180,258,160]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":11,"name":"Rectángulo 11","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[660,205,218,68]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":11,"name":"Rectángulo 12","text":"casos aprobados","textPreview":"casos aprobados","textChars":15,"textLines":1,"bbox":[660,282,218,34]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":11,"name":"Rectángulo: esquinas redondeadas 13","bbox":[928,180,258,160]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":11,"name":"Rectángulo 14","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[948,205,218,68]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":11,"name":"Rectángulo 15","text":"errores críticos","textPreview":"errores críticos","textChars":16,"textLines":1,"bbox":[948,282,218,34]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":11,"name":"Rectángulo 16","text":"Cobertura prioritaria","textPreview":"Cobertura prioritaria","textChars":21,"textLines":1,"bbox":[64,390,340,34]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":11,"name":"Rectángulo: esquinas redondeadas 17","bbox":[64,453,10,10]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":11,"name":"Rectángulo 18","text":"Acceso válido, inválido y control de roles.","textPreview":"Acceso válido, inválido y control de roles.","textChars":43,"textLines":1,"bbox":[86,445,498,48]}
+{"kind":"shape","id":"sh/4zidonyd","slide":11,"name":"Rectángulo: esquinas redondeadas 19","bbox":[64,513,10,10]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":11,"name":"Rectángulo 20","text":"QR, LPR, plazos e impresión dual.","textPreview":"QR, LPR, plazos e impresión dual.","textChars":33,"textLines":1,"bbox":[86,505,498,48]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":11,"name":"Rectángulo: esquinas redondeadas 21","bbox":[64,573,10,10]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":11,"name":"Rectángulo 22","text":"Derivación SAG y autorización de menores.","textPreview":"Derivación SAG y autorización de menores.","textChars":41,"textLines":1,"bbox":[86,565,498,48]}
+{"kind":"shape","id":"sh/4r65wjud","slide":11,"name":"Rectángulo: esquinas redondeadas 23","bbox":[680,400,536,190]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":11,"name":"Rectángulo 24","text":"Verificación técnica","textPreview":"Verificación técnica","textChars":20,"textLines":1,"bbox":[714,425,460,30]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":11,"name":"Rectángulo 25","text":"✓ npm run build\n✓ npm run lint\n✓ Sin errores de consola\n✓ Sin overflow en 390 px","textPreview":"✓ npm run build | ✓ npm run lint | ✓ Sin errores de consola | ✓ Sin overflow en 390 px","textChars":80,"textLines":4,"bbox":[714,470,440,110]}
+{"kind":"notes","id":"nt/re1w7mp0","slide":11,"text":""}
+{"kind":"slide","id":"sl/4fu18jqh","slide":12,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":9}
+{"kind":"textbox","id":"sh/sji5snel","slide":12,"name":"Rectángulo 5","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":12,"name":"Rectángulo 1","text":"Control de versiones y mejora continua","textPreview":"Control de versiones y mejora continua","textChars":38,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":12,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":12,"name":"Rectángulo 3","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":12,"name":"Rectángulo: esquinas redondeadas 4","bbox":[57,167,774,464]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":12,"name":"Rectángulo 6","text":"Evidencia disponible","textPreview":"Evidencia disponible","textChars":20,"textLines":1,"bbox":[870,190,320,32]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":12,"name":"Rectángulo: esquinas redondeadas 7","bbox":[870,258,10,10]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":12,"name":"Rectángulo 8","text":"Historial Git del proyecto.","textPreview":"Historial Git del proyecto.","textChars":27,"textLines":1,"bbox":[892,250,288,48]}
+{"kind":"shape","id":"sh/z61032ls","slide":12,"name":"Rectángulo: esquinas redondeadas 9","bbox":[870,323,10,10]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":12,"name":"Rectángulo 10","text":"Seis versiones documentadas.","textPreview":"Seis versiones documentadas.","textChars":28,"textLines":1,"bbox":[892,315,288,48]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":12,"name":"Rectángulo: esquinas redondeadas 11","bbox":[870,388,10,10]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":12,"name":"Rectángulo 12","text":"Matriz requisito–prueba.","textPreview":"Matriz requisito–prueba.","textChars":24,"textLines":1,"bbox":[892,380,288,48]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":12,"name":"Rectángulo: esquinas redondeadas 13","bbox":[870,453,10,10]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":12,"name":"Rectángulo 14","text":"Planilla de control de cambios.","textPreview":"Planilla de control de cambios.","textChars":31,"textLines":1,"bbox":[892,445,288,48]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":12,"name":"Rectángulo: esquinas redondeadas 15","bbox":[870,535,310,72]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":12,"name":"Rectángulo 16","text":"Cada cambio responde\na un riesgo o requisito","textPreview":"Cada cambio responde | a un riesgo o requisito","textChars":44,"textLines":2,"bbox":[890,548,270,48]}
+{"kind":"image","id":"im/8bat47y1","slide":12,"name":"Imagen 23","geometry":"roundRect","bbox":[64,174,760,450]}
+{"kind":"notes","id":"nt/4fu18jqh","slide":12,"text":""}
+{"kind":"slide","id":"sl/lwval87e","slide":13,"title":"SIGA · PROTOTIPO FUNCIONAL","textShapes":22}
+{"kind":"textbox","id":"sh/ovahoza1","slide":13,"name":"Rectángulo 35","text":"SIGA · PROTOTIPO FUNCIONAL","textPreview":"SIGA · PROTOTIPO FUNCIONAL","textChars":26,"textLines":1,"bbox":[64,30,350,26]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":13,"name":"Rectángulo 1","text":"Recorrido recomendado para la demostración","textPreview":"Recorrido recomendado para la demostración","textChars":42,"textLines":1,"bbox":[64,72,1060,52]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":13,"name":"Rectángulo 2","bbox":[64,135,96,4]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":13,"name":"Rectángulo 3","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,30,54,24]}
+{"kind":"shape","id":"sh/eloj2t83","slide":13,"name":"Rectángulo: esquinas redondeadas 4","bbox":[64,190,354,155]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":13,"name":"Rectángulo: esquinas redondeadas 5","bbox":[84,215,54,54]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":13,"name":"Rectángulo 6","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[84,227,54,28]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":13,"name":"Rectángulo 7","text":"Acceso","textPreview":"Acceso","textChars":6,"textLines":1,"bbox":[158,216,230,30]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":13,"name":"Rectángulo 8","text":"Ingresar como funcionario.","textPreview":"Ingresar como funcionario.","textChars":26,"textLines":1,"bbox":[158,258,230,58]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":13,"name":"Rectángulo: esquinas redondeadas 9","bbox":[448,190,354,155]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":13,"name":"Rectángulo: esquinas redondeadas 10","bbox":[468,215,54,54]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":13,"name":"Rectángulo 11","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[468,227,54,28]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":13,"name":"Rectángulo 12","text":"Aduana","textPreview":"Aduana","textChars":6,"textLines":1,"bbox":[542,216,230,30]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":13,"name":"Rectángulo 13","text":"Simular QR/LPR y emitir permiso.","textPreview":"Simular QR/LPR y emitir permiso.","textChars":32,"textLines":1,"bbox":[542,258,230,58]}
+{"kind":"shape","id":"sh/xczed8v6","slide":13,"name":"Rectángulo: esquinas redondeadas 14","bbox":[832,190,354,155]}
+{"kind":"shape","id":"sh/qpg3ex0n","slide":13,"name":"Rectángulo: esquinas redondeadas 15","bbox":[852,215,54,54]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":13,"name":"Rectángulo 16","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[852,227,54,28]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":13,"name":"Rectángulo 17","text":"SAG","textPreview":"SAG","textChars":3,"textLines":1,"bbox":[926,216,230,30]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":13,"name":"Rectángulo 18","text":"Declarar alimentos y derivar.","textPreview":"Declarar alimentos y derivar.","textChars":29,"textLines":1,"bbox":[926,258,230,58]}
+{"kind":"shape","id":"sh/loj2t83i","slide":13,"name":"Rectángulo: esquinas redondeadas 19","bbox":[64,380,354,155]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":13,"name":"Rectángulo: esquinas redondeadas 20","bbox":[84,405,54,54]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":13,"name":"Rectángulo 21","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[84,417,54,28]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":13,"name":"Rectángulo 22","text":"Tótem","textPreview":"Tótem","textChars":5,"textLines":1,"bbox":[158,406,230,30]}
+{"kind":"textbox","id":"sh/lwval87e","slide":13,"name":"Rectángulo 23","text":"Registrar menor sin autorización.","textPreview":"Registrar menor sin autorización.","textChars":33,"textLines":1,"bbox":[158,448,230,58]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":13,"name":"Rectángulo: esquinas redondeadas 24","bbox":[448,380,354,155]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":13,"name":"Rectángulo: esquinas redondeadas 25","bbox":[468,405,54,54]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":13,"name":"Rectángulo 26","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[468,417,54,28]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":13,"name":"Rectángulo 27","text":"Reportes","textPreview":"Reportes","textChars":8,"textLines":1,"bbox":[542,406,230,30]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":13,"name":"Rectángulo 28","text":"Mostrar indicadores y CSV.","textPreview":"Mostrar indicadores y CSV.","textChars":26,"textLines":1,"bbox":[542,448,230,58]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":13,"name":"Rectángulo: esquinas redondeadas 29","bbox":[832,380,354,155]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":13,"name":"Rectángulo: esquinas redondeadas 30","bbox":[852,405,54,54]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":13,"name":"Rectángulo 31","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[852,417,54,28]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":13,"name":"Rectángulo 32","text":"Admin","textPreview":"Admin","textChars":5,"textLines":1,"bbox":[926,406,230,30]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":13,"name":"Rectángulo 33","text":"Revisar auditoría completa.","textPreview":"Revisar auditoría completa.","textChars":27,"textLines":1,"bbox":[926,448,230,58]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":13,"name":"Rectángulo 34","text":"Duración sugerida: 6–8 minutos","textPreview":"Duración sugerida: 6–8 minutos","textChars":30,"textLines":1,"bbox":[380,610,520,34]}
+{"kind":"notes","id":"nt/lwval87e","slide":13,"text":""}
+{"kind":"slide","id":"sl/25kb6xkf","slide":14,"title":"Conclusión","textShapes":10}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":14,"name":"Rectángulo 15","text":"Conclusión","textPreview":"Conclusión","textChars":10,"textLines":1,"bbox":[72,72,600,60]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":14,"name":"Rectángulo 1","text":"SIGA evolucionó desde un acceso mínimo hasta un prototipo funcional, trazable y respaldado por pruebas.","textPreview":"SIGA evolucionó desde un acceso mínimo hasta un prototipo funcional, trazable y respaldado por pruebas.","textChars":103,"textLines":1,"bbox":[72,180,780,120]}
+{"kind":"shape","id":"sh/dcbulwva","slide":14,"name":"Rectángulo: esquinas redondeadas 2","bbox":[72,358,10,10]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":14,"name":"Rectángulo 3","text":"Requisitos funcionales implementados o simulados.","textPreview":"Requisitos funcionales implementados o simulados.","textChars":49,"textLines":1,"bbox":[94,350,698,48]}
+{"kind":"shape","id":"sh/vixczed8","slide":14,"name":"Rectángulo: esquinas redondeadas 4","bbox":[72,416,10,10]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":14,"name":"Rectángulo 5","text":"Reglas fronterizas críticas visibles y comprobables.","textPreview":"Reglas fronterizas críticas visibles y comprobables.","textChars":52,"textLines":1,"bbox":[94,408,698,48]}
+{"kind":"shape","id":"sh/donyd0z6","slide":14,"name":"Rectángulo: esquinas redondeadas 6","bbox":[72,474,10,10]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":14,"name":"Rectángulo 7","text":"Calidad vinculada a evidencias concretas.","textPreview":"Calidad vinculada a evidencias concretas.","textChars":41,"textLines":1,"bbox":[94,466,698,48]}
+{"kind":"shape","id":"sh/vu9knih4","slide":14,"name":"Rectángulo: esquinas redondeadas 8","bbox":[72,532,10,10]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":14,"name":"Rectángulo 9","text":"Seis iteraciones documentadas para mejora continua.","textPreview":"Seis iteraciones documentadas para mejora continua.","textChars":51,"textLines":1,"bbox":[94,524,698,48]}
+{"kind":"shape","id":"sh/adsji5sn","slide":14,"name":"Rectángulo: esquinas redondeadas 10","bbox":[900,140,290,390]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":14,"name":"Rectángulo 11","text":"LISTO PARA","textPreview":"LISTO PARA","textChars":10,"textLines":1,"bbox":[925,228,240,46]}
+{"kind":"textbox","id":"sh/sji5snel","slide":14,"name":"Rectángulo 12","text":"DEMOSTRACIÓN","textPreview":"DEMOSTRACIÓN","textChars":12,"textLines":1,"bbox":[912,282,266,46]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":14,"name":"Rectángulo 13","text":"Build ✓\nLint ✓\nPruebas ✓\nDocumentación ✓","textPreview":"Build ✓ | Lint ✓ | Pruebas ✓ | Documentación ✓","textChars":40,"textLines":4,"bbox":[935,385,220,120]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":14,"name":"Rectángulo 14","text":"Preguntas","textPreview":"Preguntas","textChars":9,"textLines":1,"bbox":[72,635,300,34]}
+{"kind":"notes","id":"nt/25kb6xkf","slide":14,"text":""}
