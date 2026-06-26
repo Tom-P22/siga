@@ -1,0 +1,62 @@
+[
+  {
+    "slide": 1,
+    "text": "SIGA | Prototipo funcional | y mejora continua | Evaluación Parcial N.º 3 · Ingeniería de Software | Del MVP a una solución navegable en seis iteraciones | 6 | ITERACIONES | 18 casos de prueba | 10 requisitos funcionales | 10 requisitos no funcionales | Equipo SIGA · 2026 | RQY1102 · Evaluación Parcial 3 | SIGA | Sistema Integrado de Gestión Aduanera | Prototipo funcional para apoyar el control fronterizo entre Chile y Argentina, integrando Aduanas, SAG, autoatención, reportes y auditoría. | Integrantes | Fernando Villalobos | Marcelo Salas | Asignatura | :  | Ingeniería |  de Software | Profesor | (a):  | Luis David Becerra Uribe | MVP → Prototipo funcional | 6 iteraciones | Pruebas ISO | Control de cambios"
+  },
+  {
+    "slide": 2,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Cumplimiento de la rúbrica | ✓ Contexto y problema | Caso base de control fronterizo Chile–Argentina, con foco en integración institucional y trazabilidad. | ✓ MVP inicial | Flujo mínimo validado: login, dashboard, registro aduanero, QR/LPR simulado y auditoría. | ✓ Iteraciones | Evolución documentada en 6 etapas: interfaz, Aduana, SAG, autoatención, reportes y seguridad. | ✓ Prototipo funcional | Módulos navegables con datos mock/localStorage, reglas de negocio y comprobantes imprimibles. | ✓ Pruebas y calidad | Plan basado en ISO 25000 / ISO 9126, con casos funcionales, usabilidad, seguridad y compatibilidad. | ✓ Control de cambios | Registro de mejoras por versión y trazabilidad entre requisitos, pruebas y funcionalidades. | Entrega 3 | Demo lista"
+  },
+  {
+    "slide": 3,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Problema y objetivo de la solución | 02 | Situación inicial | Procesos manuales y duplicación de datos. | Largos tiempos de espera en pasos terrestres. | Sistemas separados entre Aduanas, PDI y SAG. | Baja trazabilidad de decisiones y rechazos. | Objetivo SIGA | Unificar y automatizar el control fronterizo mediante una experiencia clara, trazable y preparada para integrar organismos externos. | Resultado esperado | Menos espera · menos errores · mejor fiscalización | El prototipo simula las integraciones sin utilizar datos reales ni backend."
+  },
+  {
+    "slide": 4,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Alcance funcional y actores | 03 | Aduanas | Vehículos, permisos y plazos | PDI | Identidad y autorización de menores | SAG | Declaraciones e inspecciones | Administrador | Auditoría, usuarios y reportes | Procesos cubiertos | Login y roles | QR y LPR | Reglas 180/90 | Impresión dual | Declaración SAG | Tótem de pasajeros | Auditoría | CSV y PDF"
+  },
+  {
+    "slide": 5,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Seis iteraciones desde el MVP | 04 | v0.1 | Acceso | 1 | Login y panel | v0.2 | Diseño | 2 | Tailwind y roles | v0.3 | Aduana | 3 | QR, LPR, 180/90 | v0.4 | SAG | 4 | DJ y autoatención | v0.5 | Control | 5 | Auditoría y CSV | v1.0 | Calidad | 6 | Pruebas y cierre | Cada etapa agrega valor verificable y deja evidencia en el control de cambios."
+  },
+  {
+    "slide": 6,
+    "text": "MVP · evidencia demostrable | Evolución interactiva del prototipo | La sección “Evolución MVP” ya no solo documenta versiones: permite pinchar cada iteración y ver qué incluía, qué mejoró y qué limitaciones tenía esa etapa. | Cómo se demuestra en la exposición | Seleccionar una versión: v0.1, v0.2, v0.3, v0.4, v0.5 o v1.0. | Mostrar el snapshot visible de la etapa seleccionada. | Explicar módulos, mejoras aplicadas y pendientes. | Conectar la evidencia con el control de cambios y las pruebas. | Esto permite evidenciar la progresión desde el MVP hasta el prototipo funcional final."
+  },
+  {
+    "slide": 7,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Resultado: panel operativo integrado | 05 | Visión unificada | Indicadores por módulo. | Actividad reciente y estados. | Navegación según el rol. | Persistencia entre sesiones. | Información accionable | en una sola pantalla"
+  },
+  {
+    "slide": 8,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Control vehicular: reglas y evidencia | 06 | Automatización crítica | Lectura QR simulada. | Patente mediante LPR. | 180 días: particulares. | 90 días: diplomáticos. | Dos copias físicas obligatorias. | Cálculo automático del vencimiento"
+  },
+  {
+    "slide": 9,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Control SAG y autoatención | 07 | Declaración SAG | Una declaración positiva marca el caso como observado y lo deriva a inspección física. | Tótem de pasajeros | Registro previo a ventanilla. | Código de atención. | Menores: autorización obligatoria."
+  },
+  {
+    "slide": 10,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Trazabilidad, indicadores y exportación | 08 | Control de la operación | Auditoría: usuario, fecha y acción. | Indicadores de aprobación. | Exportación CSV. | Impresión / guardado PDF. | Acceso exclusivo del administrador."
+  },
+  {
+    "slide": 11,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Modelo de calidad aplicado | 09 | ISO 9126 / familia ISO 25000 | Funcionalidad | Flujos críticos y reglas del negocio | Usabilidad | Responsive, mensajes y ayuda | Fiabilidad | Persistencia y validaciones | Eficiencia | Respuesta inmediata y build optimizado | Mantenibilidad | React, componentes y TypeScript | Portabilidad | Aplicación web multiplataforma | Calidad observable: cada atributo se vincula a una función o evidencia ejecutable."
+  },
+  {
+    "slide": 12,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Plan de pruebas y resultados | 10 | 18 | casos planificados | 18 | casos ejecutados | 18 | casos aprobados | 0 | errores críticos | Cobertura prioritaria | Acceso válido, inválido y control de roles. | QR, LPR, plazos e impresión dual. | Derivación SAG y autorización de menores. | Verificación técnica | ✓ npm run build | ✓ npm run lint | ✓ Sin errores de consola | ✓ Sin overflow en 390 px"
+  },
+  {
+    "slide": 13,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Control de versiones y mejora continua | 11 | Evidencia disponible | Historial Git del proyecto. | Seis versiones documentadas. | Matriz requisito–prueba. | Planilla de control de cambios. | Cada cambio responde | a un riesgo o requisito"
+  },
+  {
+    "slide": 14,
+    "text": "SIGA · PROTOTIPO FUNCIONAL | Recorrido recomendado para la demostración | 12 | 1 | Acceso | Ingresar como funcionario. | 2 | Aduana | Simular QR/LPR y emitir permiso. | 3 | SAG | Declarar alimentos y derivar. | 4 | Tótem | Registrar menor sin autorización. | 5 | Reportes | Mostrar indicadores y CSV. | 6 | Admin | Revisar auditoría completa. | Duración sugerida: 6–8 minutos"
+  },
+  {
+    "slide": 15,
+    "text": "Conclusión | SIGA evolucionó desde un acceso mínimo hasta un prototipo funcional, trazable y respaldado por pruebas. | Requisitos funcionales implementados o simulados. | Reglas fronterizas críticas visibles y comprobables. | Calidad vinculada a evidencias concretas. | Seis iteraciones documentadas para mejora continua. | LISTO PARA | DEMOSTRACIÓN | Build ✓ | Lint ✓ | Pruebas ✓ | Documentación ✓ | Preguntas"
+  }
+]
