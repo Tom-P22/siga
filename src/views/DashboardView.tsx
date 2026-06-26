@@ -45,7 +45,11 @@ export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
               <Button
                 variant="secondary"
                 className="w-full py-3 text-lg"
-                onClick={() => mod.id === 1 ? navigate('/aduana') : alert('Módulo en desarrollo')}
+                onClick={() => {
+                  if (mod.id === 1) navigate('/aduana');
+                  else if (mod.id === 2) navigate('/sag');
+                  else alert('Módulo en desarrollo');
+                }}
               >
                 Acceder
               </Button>

@@ -4,6 +4,7 @@ import { LoginView } from './views/LoginView';
 import { DashboardView } from './views/DashboardView';
 import { AduanaView } from './views/AduanaView';
 import { IngresoManualView } from './views/IngresoManualView';
+import { SagView } from './views/SagView';
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -22,6 +23,7 @@ function App() {
         <Route path="/" element={<DashboardView onLogout={() => setIsAuthenticated(false)} />} />
         <Route path="/aduana" element={<AduanaView />} />
         <Route path="/aduana/ingreso-manual" element={<IngresoManualView />} />
+        <Route path="/sag" element={<SagView />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </div>
