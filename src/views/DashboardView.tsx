@@ -1,4 +1,5 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import { Button } from '../components/Button';
 
 interface DashboardProps {
@@ -6,7 +7,7 @@ interface DashboardProps {
 }
 
 export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
-  // Mapeo de los módulos que mencionan tus casos de uso
+  const navigate = useNavigate();
   const modulos = [
     { id: 1, nombre: 'Control de Aduana', desc: 'Trámites de vehículos (CU12, CU13)' },
     { id: 2, nombre: 'Control SAG', desc: 'Declaraciones Juradas (CU15)' },
@@ -36,12 +37,16 @@ export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
         </div>
 
         {/* Grilla responsiva de Tailwind */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {modulos.map((mod) => (
-            <div key={mod.id} className="bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition-shadow border-t-4 border-t-blue-800 flex flex-col">
-              <h3 className="text-lg font-bold text-gray-900 mb-2">{mod.nombre}</h3>
-              <p className="text-sm text-gray-600 mb-6 flex-grow">{mod.desc}</p>
-              <Button variant="secondary" className="w-full">
+            <div key={mod.id} className="bg-white p-8 rounded-xl shadow-sm border border-gray-200 hover:shadow-md transition-shadow border-t-4 border-t-blue-800 flex flex-col">
+              <h3 className="text-2xl font-bold text-gray-900 mb-2">{mod.nombre}</h3>
+              <p className="text-base text-gray-600 mb-6 flex-grow">{mod.desc}</p>
+              <Button
+                variant="secondary"
+                className="w-full py-3 text-lg"
+                onClick={() => mod.id === 1 ? navigate('/aduana') : alert('Módulo en desarrollo')}
+              >
                 Acceder
               </Button>
             </div>

@@ -1,0 +1,44 @@
+From c55a10afaa0520c23a6321842f466549ad7f466f Mon Sep 17 00:00:00 2001
+From: Eduardo Bray <ejbray@uc.cl>
+Date: Fri, 19 Jun 2026 21:17:39 -0400
+Subject: [PATCH] chore: add AGENTS
+
+---
+ AGENTS.md | 25 +++++++++++++++++++++++++
+ 1 file changed, 25 insertions(+)
+ create mode 100644 AGENTS.md
+
+diff --git a/AGENTS.md b/AGENTS.md
+new file mode 100644
+index 0000000..382d073
+--- /dev/null
++++ b/AGENTS.md
+@@ -0,0 +1,25 @@
++# SIGA Frontend
++
++React + TypeScript + Vite SPA for SIGA (Sistema Integrado de Gestión Aduanera).
++
++## Commands
++
++| Action | Command |
++|--------|---------|
++| Dev | `npm run dev` |
++| Build | `npm run build` (runs `tsc -b` then `vite build`) |
++| Lint | `npm run lint` |
++| Preview | `npm run preview` |
++
++## Codebase conventions
++
++- **TS strict mode**: `verbatimModuleSyntax` → use `import type` for type-only imports. `erasableSyntaxOnly` → no enums or namespaces.
++- **Components**: `src/components/`, `React.FC<Props>` with named exports.
++- **Views**: `src/views/`, page-level named-export components.
++- **Styles**: Tailwind utility classes inline. Global/base styles in `src/index.css`.
++- **Language**: Spanish (UI strings, comments, commits).
++
++## Build quirks
++
++- `npm run build` runs `tsc -b` (project references `tsconfig.app.json` + `tsconfig.node.json`) before `vite build`. Type errors fail the build.
++- **No test framework** configured. No CI workflows.
+-- 
+2.52.0.windows.1
+

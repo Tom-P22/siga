@@ -24,8 +24,7 @@ export const LoginView: React.FC<LoginProps> = ({ onLoginSuccess }) => {
     <div className="min-h-screen bg-gray-100 flex items-center justify-center p-4">
       <div className="max-w-md w-full bg-white rounded-xl shadow-lg p-8">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-blue-900 tracking-tight">SIGA</h1>
-          <p className="text-sm text-gray-500 mt-2">Sistema Integrado de Gestión Aduanera</p>
+          <img src="/logo.png" alt="SIGA" className="w-[400px] h-[400px] object-contain mx-auto" />
         </div>
 
         <form onSubmit={handleSubmit} className="space-y-5">

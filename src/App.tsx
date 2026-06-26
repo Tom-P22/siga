@@ -1,18 +1,29 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import { LoginView } from './views/LoginView';
 import { DashboardView } from './views/DashboardView';
+import { AduanaView } from './views/AduanaView';
+import { IngresoManualView } from './views/IngresoManualView';
 
 function App() {
-  // Estado para simular si el usuario está autenticado
-  const [isAuthenticated, setIsAuthenticated] = useState<boolean>(false);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+
+  if (!isAuthenticated) {
+    return (
+      <div className="font-sans antialiased text-gray-900">
+        <LoginView onLoginSuccess={() => setIsAuthenticated(true)} />
+      </div>
+    );
+  }
 
   return (
     <div className="font-sans antialiased text-gray-900">
-      {isAuthenticated ? (
-        <DashboardView onLogout={() => setIsAuthenticated(false)} />
-      ) : (
-        <LoginView onLoginSuccess={() => setIsAuthenticated(true)} />
-      )}
+      <Routes>
+        <Route path="/" element={<DashboardView onLogout={() => setIsAuthenticated(false)} />} />
+        <Route path="/aduana" element={<AduanaView />} />
+        <Route path="/aduana/ingreso-manual" element={<IngresoManualView />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
     </div>
   );
 }
