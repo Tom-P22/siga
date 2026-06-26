@@ -9,10 +9,13 @@ interface DashboardProps {
 export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
   const navigate = useNavigate();
   const modulos = [
-    { id: 1, nombre: 'Control de Aduana', desc: 'Trámites de vehículos (CU12, CU13)' },
-    { id: 2, nombre: 'Control SAG', desc: 'Declaraciones Juradas (CU15)' },
+    // CU12, CU13
+    { id: 1, nombre: 'Control de Aduana', desc: 'Trámites de vehículos' },
+    // CU15
+    { id: 2, nombre: 'Control SAG', desc: 'Declaraciones Juradas' },
     { id: 3, nombre: 'Revisión de Autoatención', desc: 'Validación de datos autodeclarados y configuración de tótems' },
-    { id: 4, nombre: 'Reportería', desc: 'Dashboards y exportación (CU16, CU17)' },
+    // CU16, CU17
+    { id: 4, nombre: 'Reportería', desc: 'Dashboards y exportación' },
   ];
 
   return (
