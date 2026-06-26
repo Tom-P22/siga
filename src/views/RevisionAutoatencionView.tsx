@@ -59,7 +59,7 @@ export const RevisionAutoatencionView = () => {
               Administre la configuración y el estado de los tótems de autoatención dispuestos en el paso fronterizo.
             </p>
             <button
-              onClick={() => alert('Sección en desarrollo')}
+              onClick={() => navigate('/totems')}
               className="w-full py-4 bg-teal-700 text-white rounded-lg hover:bg-teal-800 font-semibold text-lg transition-colors"
             >
               Revisar Tótems

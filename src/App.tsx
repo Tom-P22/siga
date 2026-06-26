@@ -7,6 +7,7 @@ import { IngresoManualView } from './views/IngresoManualView';
 import { SagView } from './views/SagView';
 import { RevisionAutoatencionView } from './views/RevisionAutoatencionView';
 import { DatosAutodeclaradosView } from './views/DatosAutodeclaradosView';
+import { TotemsAutoatencionView } from './views/TotemsAutoatencionView';
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -28,6 +29,7 @@ function App() {
         <Route path="/sag" element={<SagView />} />
         <Route path="/revision-autoatencion" element={<RevisionAutoatencionView />} />
         <Route path="/datos-autodeclarados" element={<DatosAutodeclaradosView />} />
+        <Route path="/totems" element={<TotemsAutoatencionView />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </div>
