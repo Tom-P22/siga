@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Button } from '../components/Button';
 import { MinorModal } from '../components/MinorModal';
+import { Footer } from '../components/Footer';
 
 interface Pasajero {
   nombre: string;
@@ -84,7 +85,7 @@ export const AduanaView = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 flex flex-col">
       <header className="bg-blue-900 text-white p-4 shadow-md flex justify-between items-center">
         <div className="flex items-center gap-4">
           <button onClick={() => navigate('/')} className="text-white hover:text-blue-200 mr-2">
@@ -155,17 +156,8 @@ export const AduanaView = () => {
                     </div>
                   )}
                   <p className="text-sm text-gray-500 mt-2">Foto del pasajero</p>
-            </div>
-
-            <div className="flex items-center justify-end gap-4">
-              <Button variant="danger" className="py-3 px-8 text-lg">
-                Rechazar
-              </Button>
-              <Button variant="primary" className="py-3 px-8 text-lg">
-                Validar
-              </Button>
-            </div>
-          </div>
+                </div>
+              </div>
 
               <div className="md:col-span-2 bg-white rounded-xl shadow-sm border border-gray-200 p-6">
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">Información Personal</h3>
@@ -249,6 +241,15 @@ export const AduanaView = () => {
                 ))}
               </div>
             </div>
+
+            <div className="flex items-center justify-end gap-4 pt-2">
+              <Button variant="danger" className="py-3 px-8 text-lg">
+                Rechazar
+              </Button>
+              <Button variant="primary" className="py-3 px-8 text-lg">
+                Validar
+              </Button>
+            </div>
           </div>
         )}
       </main>
@@ -256,6 +257,7 @@ export const AduanaView = () => {
       {menorSeleccionado && (
         <MinorModal menor={menorSeleccionado} onClose={() => setMenorSeleccionado(null)} />
       )}
+      <Footer />
     </div>
   );
 };

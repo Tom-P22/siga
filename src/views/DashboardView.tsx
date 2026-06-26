@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Button } from '../components/Button';
+import { Footer } from '../components/Footer';
 
 interface DashboardProps {
   onLogout: () => void;
@@ -19,7 +20,7 @@ export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 flex flex-col">
       {/* Header Institucional */}
       <header className="bg-blue-900 text-white p-4 shadow-md flex justify-between items-center">
         <div className="flex items-center gap-4">
@@ -61,6 +62,7 @@ export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
           ))}
         </div>
       </main>
+      <Footer />
     </div>
   );
 };

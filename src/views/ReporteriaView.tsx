@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell, Legend } from 'recharts';
+import { Footer } from '../components/Footer';
 
 type Tab = 'dashboard' | 'exportacion';
 
@@ -80,7 +81,7 @@ export const ReporteriaView = () => {
   const porcentajeInspeccion = 8.3;
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 flex flex-col">
       <header className="bg-blue-900 text-white p-4 shadow-md flex justify-between items-center">
         <div className="flex items-center gap-4">
           <button onClick={() => navigate('/')} className="text-white hover:text-blue-200 mr-2">
@@ -322,6 +323,7 @@ export const ReporteriaView = () => {
           </div>
         )}
       </main>
+      <Footer />
     </div>
   );
 };
