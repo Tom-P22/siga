@@ -11,7 +11,7 @@ export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
   const modulos = [
     { id: 1, nombre: 'Control de Aduana', desc: 'Trámites de vehículos (CU12, CU13)' },
     { id: 2, nombre: 'Control SAG', desc: 'Declaraciones Juradas (CU15)' },
-    { id: 3, nombre: 'Autoatención', desc: 'Gestión de pasajeros y tótems' },
+    { id: 3, nombre: 'Revisión de Autoatención', desc: 'Validación de datos autodeclarados y configuración de tótems' },
     { id: 4, nombre: 'Reportería', desc: 'Dashboards y exportación (CU16, CU17)' },
   ];
 
@@ -48,6 +48,7 @@ export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
                 onClick={() => {
                   if (mod.id === 1) navigate('/aduana');
                   else if (mod.id === 2) navigate('/sag');
+                  else if (mod.id === 3) navigate('/revision-autoatencion');
                   else alert('Módulo en desarrollo');
                 }}
               >

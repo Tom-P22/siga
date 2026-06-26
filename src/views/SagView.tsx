@@ -95,15 +95,18 @@ export const SagView = () => {
   const navigate = useNavigate();
   const [estado, setEstado] = useState<'idle' | 'loading' | 'data'>('idle');
   const [rutInput, setRutInput] = useState('');
+  const [loadingType, setLoadingType] = useState<'qr' | 'rut'>('qr');
   const [declaracionSeleccionada, setDeclaracionSeleccionada] = useState<Declaracion | null>(null);
 
   const handleEscanear = () => {
+    setLoadingType('qr');
     setEstado('loading');
     setTimeout(() => setEstado('data'), 1500);
   };
 
   const handleBuscarPorRut = () => {
     if (!rutInput.trim()) return;
+    setLoadingType('rut');
     setEstado('loading');
     setTimeout(() => setEstado('data'), 1500);
   };
@@ -131,8 +134,8 @@ export const SagView = () => {
                 <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
                 <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
               </svg>
-              <p className="text-xl text-gray-600 font-medium">Escaneando código QR...</p>
-              <p className="text-sm text-gray-400">Cargando declaraciones del pasajero</p>
+              <p className="text-xl text-gray-600 font-medium">{loadingType === 'qr' ? 'Escaneando código QR...' : 'Buscando datos del pasajero...'}</p>
+              <p className="text-sm text-gray-400">{loadingType === 'qr' ? 'Cargando declaraciones del pasajero' : 'Consultando registros del SAG'}</p>
             </div>
           </div>
         ) : estado === 'idle' ? (
@@ -259,6 +262,15 @@ export const SagView = () => {
                   );
                 })}
               </div>
+            </div>
+
+            <div className="flex items-center justify-end gap-4">
+              <Button variant="danger" className="py-3 px-8 text-lg">
+                Rechazar
+              </Button>
+              <Button variant="primary" className="py-3 px-8 text-lg">
+                Validar
+              </Button>
             </div>
           </div>
         )}
