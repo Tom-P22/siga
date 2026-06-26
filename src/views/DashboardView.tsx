@@ -49,7 +49,7 @@ export const DashboardView: React.FC<DashboardProps> = ({ onLogout }) => {
                   if (mod.id === 1) navigate('/aduana');
                   else if (mod.id === 2) navigate('/sag');
                   else if (mod.id === 3) navigate('/revision-autoatencion');
-                  else alert('Módulo en desarrollo');
+                  else if (mod.id === 4) navigate('/reporteria');
                 }}
               >
                 Acceder
